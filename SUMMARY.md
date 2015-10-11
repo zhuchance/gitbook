@@ -1,5 +1,5 @@
 # Summary
 
 * [Sdp纵览](README.md)
-* [version1.0](chapter1.md)
+* [Sdp核心组件Docker](chapter1.md)
 
