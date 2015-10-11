@@ -1,12 +1,22 @@
 # **Sdp-v1.0项目文档**
 *Simle Docker PaaS, version:1.0*
 
-###
-  泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务。
-  用户的域名cname到不同的uid.sdipaas.comt三级域名。
-  WEB型应用由nginx反向代理提供一对一http路由映射到真正的docker容器上，，而所有的docker建立在hdfs或其他分布式存储上，建立统一的数据容器，提供FTP svn git任意一种方式文件，代码上传功能，这样一个简单的PaaS。
 
-  所有关键文件均保存为隐藏文件，将所有用户信息保存成一个JSON文件，而后由tools工具读取JSON用户文件进行相应操作。
+### 
+原理：
+
+1. 
+泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
+  
+2. 
+WEB型应用会生成一个包含用户名的三级域名，用户自己的域名cname到我们生成的域名上，由nginx反向代理提供一对一http路由映射到真正的docker容器上，提供FTP svn git(暂不支持)任意一种方式文件，代码上传功能，这样一个简单的PaaS。
+
+3. 
+APP型应用提供IP+PORT，并开放iptables，供用户远程应用。
+  
+4. 
+  所有关键文件均保存为JSON格式文件，由tools目录下的工具读取相应文件进行相应后续更新服务、邮件提醒等操作。
+
 
 ####Directory description:
 
