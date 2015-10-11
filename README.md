@@ -1,10 +1,4 @@
-
 # **Sdp-v1.0项目文档**
-
-
-=======
-
-# Sdp
 *Simle Docker PaaS, version:1.0*
 
 ###
