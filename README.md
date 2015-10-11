@@ -1,10 +1,9 @@
 # **Sdp-v1.0项目文档**
+
 *Simle Docker PaaS, version:1.0*
 
 
-### 
-原理：
-
+**原理：**
 1. 
 泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
   
