@@ -8,8 +8,8 @@ GAE与GCE早已就Docker秘密研发多时，百度BAE团队早在Docker发展�
 
 这意味着Docker技术将取代传统的PaaS容器技术，正式进入主流，Docker也将大幅拓宽PaaS的应用范围，隐隐有取代IaaS之势。
 
-构建PaaS的核心组件即docker。以往PaaS处于十分尴尬的地位，但是随着docker的出现，这个云计算平台层将越来越重要！
+构建Sdp PaaS的核心组件即docker。
 
 
-
+如果您想学习docker，推荐一个翻译Docker官网的在线文档地址：
 http://dockerpool.com/static/books/docker_practice/index.html
