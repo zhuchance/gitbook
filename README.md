@@ -1,6 +1,7 @@
-# **Sdp-v1.0项目文档**
+# **Sdp(SPC)项目文档,使用说明**
 
 *Simle Docker PaaS, version:1.0*
+*Simle Private Cloud, Sdp-v2.0*
 
 
 **原理：**
