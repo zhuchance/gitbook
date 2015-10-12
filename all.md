@@ -1,7 +1,5 @@
 
-
 #  ** 纵览-部署**
-
 
 
 ## 一：Sdp
@@ -18,23 +16,23 @@
 
   由于是单机部署，并且开发的时候是以个人服务器为环境的，所以切换服务器有如下硬性要求：
   
-  >服务器本身有Nginx服务，可参照https://github.com/staugur/CoreWeb；
+  >1.服务器本身有Nginx服务，可参照https://github.com/staugur/CoreWeb；
   
-  >硬件架构是CentOS6.5 x86_64位以上，要求满足docker最低安装需求；
+  >2.硬件架构是CentOS6.5 x86_64位以上，要求满足docker最低安装需求；
   
-  >存在标签为staugur/centos的容器，下载链接：
+  >3.存在标签为staugur/centos的容器，下载链接：
 https://software.saintic.com/core/docker/staugur.tar；或通过docker pull staugur/centos下载；后期通过build构建；
 
-  >仅支持iptables，如果为firewalld类型，请关闭firewalld并开启iptables；
+  >4.仅支持iptables，如果为firewalld类型，请关闭firewalld并开启iptables；
   
-  >软件包：jq、mailx、subversion
+  >5.软件包：jq、mailx、subversion、python
 
 **2.安装文档**
 
   提示：以下安装是基于拥有一定基础水平Linux(CentOS)人员进行的。
   1.) yum –y install subversion mailx
 
-  2.) svn co https://github.com/staugur/Sdp/tags/v1.0 sdp
+  2.) svn co https://github.com/staugur/Sdp/tags/stable-0.1 sdp
 
   3.) cd sdp ; ls
   ![](imgs/sdp1.0.png)
