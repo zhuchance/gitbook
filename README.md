@@ -20,6 +20,9 @@
 
 *如果还有问题想联系我？OK，我的邮件是：*staugur@saintic.com
 
+此外，可以小额捐赠我，支付宝扫一扫：
+![](imgs/alipay.jpg)
+
 ## **原理：**
 1. 
 泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
