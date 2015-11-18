@@ -1,12 +1,12 @@
 # **Sdp(SPC)项目文档,使用说明**
 
-**Version**
+**版本**
 
 *Simle Docker PaaS, version:1.0*
 
 *Simle Private Cloud, Sdp-v2.0*
 
-**友情链接：**
+**链接：**
 
 *如果你要访问我的博客，请到：*[http://blog.saintic.com](http://blog.saintic.com);
 
@@ -20,7 +20,8 @@
 
 *如果还有问题想联系我？OK，我的邮件是：*staugur@saintic.com
 
-此外，可以小额捐赠我，支付宝扫一扫：
+*此外，可以小额捐赠我，支付宝扫一扫：*
+
 ![](imgs/alipay.jpg)
 
 ## **原理：**
