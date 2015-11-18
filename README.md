@@ -12,7 +12,7 @@
 
 *如果你要访问我的源码，请到：*[https://github.com/staugur](https://github.com/staugur);
 
-*我的Docker仓库是registry.saintic.com(别直接访问，咋用？Google、Baidu~~)*
+*我的Docker官方仓库是staugur，私有仓库是registry.saintic.com(咋用？Google、Baidu~~)*
 
 *我的FaceBook?给你社区主页：*[https://www.facebook.com/fifthspace](https://www.facebook.com/fifthspace);
 
