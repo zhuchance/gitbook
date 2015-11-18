@@ -14,11 +14,11 @@
 
 *我的Docker仓库是staugur，私有仓是registry.saintic.com(咋用？Google、Baidu~~)*
 
-*我的FaceBook?给你社区主页：*[https://www.facebook.com/fifthspace](https://www.facebook.com/fifthspace);
+*我的FaceBook社区主页：*[https://www.facebook.com/fifthspace](https://www.facebook.com/fifthspace);
 
 *我的Twitter主页是：*[https://twitter.com/Staugurtcw](https://twitter.com/Staugurtcw)
 
-*如果还有问题想联系我？OK，我的邮件是：*staugur@saintic.com
+*如果还有问题想联系我？OK，我的邮箱是：*staugur@saintic.com
 
 *此外，可以小额捐赠我，支付宝扫一扫：*
 
