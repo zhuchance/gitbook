@@ -20,6 +20,8 @@
 
 *我的Twitter主页是：*[https://twitter.com/Staugurtcw](https://twitter.com/Staugurtcw)
 
+*我的微博主页是：*[http://weibo.saintic.com](http://weibo.saintic.com)
+
 *如果还有问题想联系我？OK，我的邮箱是：*staugur@saintic.com
 
 *此外，可以小额捐赠我，支付宝扫一扫：*
