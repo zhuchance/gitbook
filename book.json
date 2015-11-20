@@ -1,7 +1,8 @@
 {
     "plugins": [
         "disqus",
-        "facebook"
+        "facebook",
+        "github"
     ],
     "output": null,
     "pluginsConfig": {},
