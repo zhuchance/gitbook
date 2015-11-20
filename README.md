@@ -13,7 +13,7 @@
 
 *我的代码仓库是GitHub(右上角也有)，请到：*[https://github.com/staugur](https://github.com/staugur);
 
-*我的Docker仓库名是staugur，私有仓是registry.saintic.com(咋用？Google、Baidu~~)*
+*我的Docker仓库名是staugur，私有仓是registry.saintic.com(咋用？Google、Baidu~~或者本站serach)*
 
 *我的FaceBook社区主页：*[https://www.facebook.com/fifthspace](https://www.facebook.com/fifthspace);
 
