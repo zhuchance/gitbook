@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "http://www.saintic.com",
+            "shortName": "saintic",
             "useIdentifier": false
         },
         "github": {
