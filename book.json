@@ -1,22 +1,9 @@
 {
-    "author": "Chengwei Tao <staugur@saintic.com>",
-    "description": "Sdp document",
-    "extension": null,
-    "generator": "site",
-    "isbn": null,
-    "links": {
-        "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
-        },
-        "sidebar": {
-            "taochengwei's Blog": "http://blog.saintic.com"
-        }
-    },
+    "plugins": [
+        "disqus"
+    ],
     "output": null,
+    "author": "Chengwei Tao <staugur@saintic.com>",
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
@@ -30,7 +17,23 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+    "generator": "site",
+    "isbn": null,
+    "variables": {},
     "title": "Sample GitBook",
-    "variables": {}
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "taochengwei's Blog": "http://blog.saintic.com"
+        }
+    },
+    "description": "Sdp document",
+    "extension": null,
+    "pluginsConfig": {}
 }
