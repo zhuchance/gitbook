@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "disqus"
+        "-disqus"
     ],
     "output": null,
     "author": "Chengwei Tao <staugur@saintic.com>",
