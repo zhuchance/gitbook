@@ -6,7 +6,7 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "http://www.saintic.com",
-            "useIdentifier": true
+            "useIdentifier": false
         },
         "github": {
             "url": "https://github.com/staugur"
