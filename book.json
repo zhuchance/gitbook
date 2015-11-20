@@ -20,17 +20,14 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "generator": "site",
     "isbn": null,
     "variables": {},
-    "title": "Sample GitBook",
     "links": {
         "sharing": {
             "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
+            "facebook": "www.facebook.com/staugur",
+            "twitter": "twitter.com/staugurtcw",
+            "weibo": "weibo.com/staugur"
         },
         "sidebar": {
             "taochengwei's Blog": "http://blog.saintic.com"
