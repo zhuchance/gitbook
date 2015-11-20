@@ -21,7 +21,7 @@
 
 *我的微博主页是：*[http://weibo.com/staugur](http://weibo.com/staugur)
 
-*如果还有问题想联系我？OK，我的邮箱是：*staugur@saintic.com
+*如果还有问题想联系我？比如协同开发项目、谈谈人生聊聊理想啊，OK，我的邮箱是：*staugur@saintic.com
 
 *此外，可以小额捐赠我，支付宝扫一扫：*
 
