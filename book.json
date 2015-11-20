@@ -7,6 +7,9 @@
         "disqus": {
             "shortName": "http://www.saintic.com",
             "useIdentifier": true
+        },
+        "github": {
+            "url": "https://github.com/staugur"
         }
     }
 }
