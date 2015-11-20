@@ -3,6 +3,7 @@
         "-disqus"
     ],
     "output": null,
+    "pluginsConfig": {},
     "author": "Chengwei Tao <staugur@saintic.com>",
     "pdf": {
         "fontSize": 12,
@@ -34,6 +35,5 @@
         }
     },
     "description": "Sdp document",
-    "extension": null,
-    "pluginsConfig": {}
+    "extension": null
 }
