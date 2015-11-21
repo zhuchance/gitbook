@@ -25,6 +25,10 @@ Motto:
 
   Simple Private Cloud, version:2.0```
 
+##CoreWeb
+
+  ```
+  An automated web environment deployment system```
 
 ##Links
 
