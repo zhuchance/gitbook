@@ -26,7 +26,7 @@ Sdp核心技术即docker服务：
     
 
 
-下载链接：sdp/components/docker.sh
+下载链接：https://github.com/staugur/Sdp/tags/stable-v1.0/components/docker.sh
 
     1.此脚本自动安装docker服务，支持的系统是CentOS、RHEL6.5、7 64Bit系统以上。
 
@@ -44,9 +44,9 @@ Sdp核心技术即docker服务：
 
 
 需要下载七大Docker image并将之导入到本地镜像库中，下载链接：https://saintic.top/docker
+(好像已经被我下线了，所以还是用sdp v1.1吧。)
 
-
-导入方法参见：
+回头想办法把备份搞回来，地址就是上面的下载链接，导入镜像方法参见：
 http://dockerpool.com/static/books/docker_practice/container/import_export.html
 
 
