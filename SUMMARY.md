@@ -5,7 +5,6 @@
    * [Amp官方文档库](docs/amp.md)
    * [Sdp.v1.0官方文档库](docs/sdp.sh.md)
 * [CoreWeb官方文档](docs/coreweb.md)
-* [Sdp1.0官方文档库](docs/all.md)
 * [核心组件Docker](docker/docker.md)
    * [Docker部署调试](docker/docker_Manual.md)
    * [Docker脚本解析](docker/docker_autoscript.md)
