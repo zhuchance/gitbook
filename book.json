@@ -2,7 +2,7 @@
     "plugins": [
         "disqus",
         "github",
-        "facebook"
+        "baidu"
     ],
     "pluginsConfig": {
         "disqus": {
