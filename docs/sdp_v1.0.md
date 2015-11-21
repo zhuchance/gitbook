@@ -1,6 +1,6 @@
 # Sdp,v1.0官方文档库
 
-**提示：Sdp(shell)将逐渐不再维护，建议使用Sdp1.1(python).**
+**提示：Sdp1.0(shell)将逐渐不再维护，建议使用Sdp1.1(python).**
 
 ## **stable-v1.0(sdp.sh)原理：**
 1. 
