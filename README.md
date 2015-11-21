@@ -43,7 +43,7 @@ Motto:
 
 ##Small donations
 
-*此外，可以小额捐赠我，支付宝扫一扫：*
+*支付宝扫一扫可以小额捐赠我：*
 
 ![](imgs/alipay.jpg)
 
