@@ -73,7 +73,7 @@ components源代码如下：
 
 Tags标签stable即1.0默认global.func启用了SSL，如果没有那么需要将global.func中如下图断中的SSLRequireSSL前加#注释掉。
 
- ![](imgs/svnrepo.png)
+ ![](../imgs/svnrepo.png)
  
 之后的版本默认注释掉，如果需要开启SSL将#去掉。
 
