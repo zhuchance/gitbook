@@ -1,7 +1,5 @@
 # Sdp v1.0(shell)
 
-
-
 ## 一：Sdp
 
 即Simple Docker PaaS,文档版本是1.0，版本地址是https://github.com/staugur/Sdp/tags/stable-v1.0。
