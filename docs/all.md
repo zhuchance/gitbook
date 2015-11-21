@@ -19,7 +19,7 @@ spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点�
 建议用Jenkins持续集成。
 
 简单结构图：
-
+![](sdp.sh.png)
 
 
 ## **Directory description:**
