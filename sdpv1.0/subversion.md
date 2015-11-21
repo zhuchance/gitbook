@@ -66,7 +66,7 @@ components源代码如下：
 
 脚本是以YUM包管理系统安装的httpd和svn，要求httpd配置目录为/etc/httpd/conf/httpd.conf，扩展配置目录为/etc/httpd/conf.d/，除非您修改sdp源码global.func，修改第十行，更改svnconf变量值。
 
-![](imgs/svnconf.png)
+![](../imgs/svnconf.png)
  
 保证可以使用/etc/init.d/httpd reload重载服务，也就是说在CentOS7或RHEL7的YUM安装方式上不适用。
 默认安装中禁用了HTTPS功能，如果你有证书，可以设置Apache Httpd Server的SSL功能。
