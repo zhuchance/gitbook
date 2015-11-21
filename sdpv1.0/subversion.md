@@ -5,7 +5,6 @@ Subversion即svn，是比较流行的版本管理系统；结合Apache Httpd Ser
 
 ## 一：源码包
 
-
 请注意，Apache需要apr、apr-util，而在后面subversion需要与APR、Apr-util版本相契合，如果Apache为2.0.x，APR版本就为0.9.x；apache为2.2.x,对应的APR版本应为1.2.x。由于subveresion-deps包里的APR是0.9.x的，因此编译svn时要删除从deps里解压出来的apr,apr-util，改而使用apache2.2里提供的。
 
 最完美的搭配是：apr-1.2.12  apr-util-1.2.12  httpd-2.2.4.tar.gz  subversion-1.4.5.tar.gz   subversion-deps-1.4.5.tar.gz
