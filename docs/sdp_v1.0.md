@@ -102,7 +102,9 @@ https://software.saintic.com/core/docker/staugur.tar；或通过docker pull stau
 
 
 **3.使用文档**
-3.1 命令行
+
+*3.1 命令行*
+
   >1. cd sdp;
   
   >2. sh start.sh arg1 arg2 arg3 arg4 arg5
@@ -110,7 +112,7 @@ https://software.saintic.com/core/docker/staugur.tar；或通过docker pull stau
  
   >3. Sdp以start.sh脚本开始，此脚本需要五个参数，分别是user(用户) use_time(使用时间，单位月) service_type(服务) file_type(文件类型) email(用户邮箱)。
 
-*要求：*
+*3.2 参数要求*
 
 1).用户名不冲突，同个用户需要多个服务当前版本必须多次以不同user执行；
 
@@ -123,12 +125,21 @@ https://software.saintic.com/core/docker/staugur.tar；或通过docker pull stau
 5).邮件提醒：部署成功后会发给用户一封信息邮件(确保不在垃圾邮件中)，大致内容包括用户名、密码、验证邮箱、服务类型，若为web服务类型则包含域名信息，否则为IP+PORT信息，若文件类型是svn则包含用户版本库地址，否则为FTP地址，最后是FAQ链接，此链接详细讲解用户应该如果使用邮件的信息。
  ![](../imgs/email.png)
 
-**Note:**
-可以直接在web端访问触发，代码目录是spmc，将整个spmc目录复制到nginx网站根目录下或者单独建立虚拟主机，并修改exec.php中的密码部分：将password改为你服务器root密码，并将nginx或Apache、php-fpm的用户改为一个单独的用户，比如www，授予www无密码sudo权限。
+*3.3 触发控制*
+
+~~3.3.1 SPMC~~
+  
+  可以直接在web端访问触发，代码目录是spmc，将整个spmc目录复制到nginx网站根目录下或者单独建立虚拟主机，并修改exec.php中的密码部分：将password改为你服务器root密码，并将nginx或Apache、php-fpm的用户改为一个单独的用户，比如www，授予www无密码sudo权限。
   ![](../imgs/sudo.png)
  
 Spmc界面如下(建议此界面web加密访问)：
   ![](../imgs/spmc.png)
+  
+~~3.3.2 Jenkins~~
+
+  通过jenkins持续集成。
+  
+  
 
 ##三：联系我们
 Sdp为开源项目，诚请兴趣开发者；若用于商业目的请联系我们，否则将追究法律责任！
