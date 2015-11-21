@@ -1,8 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "github",
-        "baidu"
+        "github"
     ],
     "pluginsConfig": {
         "disqus": {
