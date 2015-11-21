@@ -16,11 +16,12 @@ Motto:
 
 ##SdpCloud Version
 
-  ```Simple Docker PaaS, version:1.0```
+  ```
+  Simple Docker PaaS, version:1.0
 
-  ```Simple Docker PaaS, version:1.1```
+  Simple Docker PaaS, version:1.1
 
-  ```Simple Private Cloud, version:2.0```
+  Simple Private Cloud, version:2.0```
 
 
 ##Links
