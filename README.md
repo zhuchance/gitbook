@@ -11,19 +11,19 @@ Motto:
 
 ##My Blog
 
-  ```运维,开发,架构```
+  ```
+  运维,开发,架构```
 
-  
 ##SdpCloud Version
 
-Simple Docker PaaS, version:1.0
+  ```Simple Docker PaaS, version:1.0```
 
-Simple Docker PaaS, version:1.1
+  ```Simple Docker PaaS, version:1.1```
 
-Simple Private Cloud, version:2.0
+  ```Simple Private Cloud, version:2.0```
 
 
-**链接：**
+##Links
 
 *我的代码仓库是GitHub(右上角也有)，请到：*[https://github.com/staugur](https://github.com/staugur);
 
