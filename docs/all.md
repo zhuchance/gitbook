@@ -18,6 +18,7 @@ APP型应用提供IP+PORT，并开放iptables，供用户远程应用。
 spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点下或单独建个站点，以便通过网页形式创建和更新用户，支持PC端和移动端。
 建议用Jenkins持续集成。
 
+简单结构图：
 
 
 
