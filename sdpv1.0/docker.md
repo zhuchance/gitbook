@@ -1,6 +1,6 @@
 # Docker
 
-Docker是一项伟大的技术，我有个同事曾经说过，Jenkins+Docker是手工时代的革命。
+Docker是一项伟大的技术，借用一句话，Jenkins+Docker是手工时代的革命。
 
 Docker的出现给DevOps注入了强大而新鲜的血液，也给PaaS带来了曙光和黎明！它的出现，被称为“云计算的下一件大事”。
 
@@ -26,7 +26,7 @@ Sdp核心技术即docker服务：
     
 
 
-下载链接：https://github.com/staugur/sdp/trunk/components/docker.sh
+下载链接：sdp/components/docker.sh
 
     1.此脚本自动安装docker服务，支持的系统是CentOS、RHEL6.5、7 64Bit系统以上。
 
