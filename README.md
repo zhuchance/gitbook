@@ -41,7 +41,7 @@ Motto:
 
 如果你有好奇心(不要嫌弃UI)-->> https://saintic.top/
 
-如果还有问题想联系我？比如协同开发项目、谈谈人生聊聊理想啊，OK，我的邮箱是：*staugur@saintic.com```
+如果还有问题想联系我？比如协同开发项目、谈谈人生聊聊理想啊，OK，我的邮箱是：staugur@saintic.com```
 
 ##Small donations
 
