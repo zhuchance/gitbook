@@ -57,7 +57,7 @@ PaaS改变了传统的应用交付模式，促进了分工的进一步专业化�
 
 ## 一：Sdp
 
-即Simple Docker PaaS,目前版本是1.0，版本地址是https://github.com/staugur/Sdp/tags/stable-v1.0。
+即Simple Docker PaaS,文档版本是1.0，版本地址是https://github.com/staugur/Sdp/tags/stable-v1.0。
 
 它目前版本是一个在固定环境的单机上部署的一套小型PaaS平台，支持nginx、httpd、tomcat、mysql、mongodb、redis、memcached服务；遗憾的是无法通过网页申请资源、管理、审计等。
 
@@ -73,8 +73,7 @@ PaaS改变了传统的应用交付模式，促进了分工的进一步专业化�
   
   >2.硬件架构是CentOS6.5 x86_64位以上，要求满足docker最低安装需求；
   
-  >3.存在标签为staugur/centos的容器，下载链接：
-https://software.saintic.com/core/docker/staugur.tar；或通过docker pull staugur/centos下载；后期通过build构建；
+  >3.存在标签为staugur/centos的容器，build或pull；
 
   >4.仅支持iptables，如果为firewalld类型，请关闭firewalld并开启iptables；
   
@@ -141,8 +140,8 @@ Spmc界面如下(建议此界面web加密访问)：
   
 
 ##三：联系我们
-Sdp为开源项目，诚请兴趣开发者；若用于商业目的请联系我们，否则将追究法律责任！
+Sdp为开源项目，遵守GPLv3协议，诚请兴趣开发者；若用于商业目的请联系我们，否则将追究法律责任！
 
-E-mail：staugur@saintic.com  或  staugur@vip.qq.com
+E-mail：staugur@saintic.com
 
 
