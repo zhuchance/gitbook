@@ -2,7 +2,7 @@
 
 ```
 Author:
-  SaintIC.com
+  saintic.com
 Love:
   爱技术爱折腾；
   爱运维爱编程；
