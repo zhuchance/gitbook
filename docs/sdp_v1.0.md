@@ -88,7 +88,7 @@ https://software.saintic.com/core/docker/staugur.tar；或通过docker pull stau
   2.) svn co https://github.com/staugur/Sdp/tags/stable-0.1 sdp
 
   3.) cd sdp ; ls
-  ![](imgs/sdp1.0.png)
+  ![](../imgs/sdp1.0.png)
 
   4.) cd components            //运行此三个脚本安装docker、httpd+svn、vsftpd服务；
 
