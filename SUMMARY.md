@@ -1,6 +1,6 @@
 # Summary
 
-* [SaintIC 技术博客、产品文档、项目源码](README.md)
+* [SaintIC](README.md)
    * [我的技术博客](docs/blog.md)
    * [Amp官方文档库](docs/amp.md)
    * [CoreWeb官方文档库](docs/coreweb.md)
