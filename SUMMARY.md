@@ -1,7 +1,7 @@
 # Summary
 
 * [SaintIC 技术博客、产品文档、项目源码](README.md)
-   * [Sdp官方文档](docs/all.md)
+   * [Sdp官方文档库](docs/all.md)
    * [技术Blog](docs/blog.md)
    * [CoreWeb官方文档](docs/coreweb.md)
 * [核心组件Docker](docker/docker.md)
