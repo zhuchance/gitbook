@@ -33,7 +33,7 @@ Motto:
 ##Amp
 
   ```
-  Ansible自动化运维(通用)管理平台```
+  Ansible Manager Platform==>自动化运维(通用)管理平台```
 
 ##Links
 
