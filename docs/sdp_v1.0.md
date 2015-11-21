@@ -19,7 +19,7 @@ spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点�
 
 6. 
 简单结构图：
-![](docs/sdp.sh.png)
+![](imgs/sdp.sh.png)
 
 
 ## **Directory description:**
