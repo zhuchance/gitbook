@@ -28,6 +28,8 @@
 
   提示：以下安装是基于拥有一定基础水平Linux(CentOS)人员进行的。
   
+ ** 前提：请先阅读Docker、Subversion、Vsftpd或一键部署文章！！！**
+  
    >1. yum –y install subversion mailx
 
    >2. svn co https://github.com/staugur/Sdp/tags/stable-0.1 sdp
