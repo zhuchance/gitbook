@@ -8,8 +8,6 @@
    * [Sdp,v1.1官方文档库](docs/sdp_v1.1.md)
 * [核心组件Subversion](svn/subversion.md)
    * [svn部署调试](svn/svnbu_Manual.md)
-* [核心组件Docker](docker/docker.md)
-   * [Docker脚本解析](docker/docker_autoscript.md)
 * [Sdp_v1.0](sdpv1.0/sdpv10.md)
    * [Docker](sdpv1.0/docker.md)
 
