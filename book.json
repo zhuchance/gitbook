@@ -3,7 +3,7 @@
         "disqus",
         "github",
         "baidu",
-        "blog"
+        "tree"
     ],
     "pluginsConfig": {
         "disqus": {
