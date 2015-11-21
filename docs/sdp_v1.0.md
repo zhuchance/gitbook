@@ -57,7 +57,7 @@ PaaS改变了传统的应用交付模式，促进了分工的进一步专业化�
 
 ## 一：Sdp
 
-即Simple Docker PaaS,目前版本是1.0，版本地址是https://github.com/staugur/Sdp。
+即Simple Docker PaaS,目前版本是1.0，版本地址是https://github.com/staugur/Sdp/tags/stable-v1.0。
 
 它目前版本是一个在固定环境的单机上部署的一套小型PaaS平台，支持nginx、httpd、tomcat、mysql、mongodb、redis、memcached服务；遗憾的是无法通过网页申请资源、管理、审计等。
 
