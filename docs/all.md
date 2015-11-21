@@ -18,6 +18,7 @@ APP型应用提供IP+PORT，并开放iptables，供用户远程应用。
 spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点下或单独建个站点，以便通过网页形式创建和更新用户，支持PC端和移动端。
 建议用Jenkins持续集成。
 
+6. 
 简单结构图：
 ![](sdp.sh.png)
 
@@ -35,9 +36,6 @@ tools:其他工具类脚本，如续费功能、服务到期邮件提醒功能�
 
 spmc:Sdp持续集成简易管理控制台，创建更新用户信息。
 
-
-**Version2.0, SPC**
-开发中……
 
 ## **PaaS:**
 *Sdp定位是一个简单PAAS平台，旨在构建简单方便快捷的PAAS云。*
