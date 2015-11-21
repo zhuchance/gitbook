@@ -1,5 +1,7 @@
 # Sdp,v1.0官方文档库
 
+**提示：Sdp(shell)将逐渐不再维护，建议使用Sdp1.1(python).**
+
 ## **stable-v1.0(sdp.sh)原理：**
 1. 
 泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
