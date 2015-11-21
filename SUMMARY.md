@@ -10,4 +10,5 @@
    * [Docker](sdpv1.0/docker.md)
    * [Subversion](sdpv1.0/subversion.md)
    * [Vsftpd](sdpv1.0/vsftpd.md)
+   * 一键部署Sdp v1.0
 
