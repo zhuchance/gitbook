@@ -13,4 +13,5 @@
    * [一键部署Sdp v1.0](sdpv1.0/autodeploy.md)
 * Sdp v1.1
 * CoreWeb
+* 技术博客
 
