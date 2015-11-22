@@ -38,7 +38,7 @@ Motto:
 ##Links
 
   ```
-  我的代码仓库是GitHub(右上角也有)-->> https://github.com/staugur;
+  我的代码仓库是GitHub(右上角也有)-->> https://github.com/saintic;
 
   我的Docker仓库名是staugur，私有仓是registry.saintic.com(咋用？Google、Baidu~~或者本站serach)
 
