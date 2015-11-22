@@ -11,7 +11,7 @@
    * [Subversion](sdpv1.0/subversion.md)
    * [Vsftpd](sdpv1.0/vsftpd.md)
    * [一键部署Sdp v1.0](sdpv1.0/autodeploy.md)
-* [Sdp v1.1](sdpv1.1/sdpv11.md)
+* [Sdp v1.1](sdpv1.1/README.md)
    * [Sdpv1.1整体概括](sdpv1.1/ALL.md)
 * [CoreWeb](coreweb/README.md)
 * 技术博客
