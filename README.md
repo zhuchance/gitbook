@@ -16,7 +16,7 @@ Motto:
   ```
   运维,开发,架构```
 
-##SdpCloud Version
+##SdpCloud
 
   ```
   Simple Docker PaaS, version:1.0
