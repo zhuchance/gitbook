@@ -2,7 +2,7 @@
     "plugins": [
         "disqus",
         "github",
-        "edit-link"
+        "-edit-link"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -12,7 +12,7 @@
         "github": {
             "url": "https://github.com/saintic"
         },
-        "edit-link": {
+        "-edit-link": {
             "base": "http://www.saintic.com",
             "label": "Edit This Page"
         }
