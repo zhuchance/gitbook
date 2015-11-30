@@ -1,7 +1,6 @@
 # Summary
 
 * [SaintIC](README.md)
-   * [Sdp,v1.1官方文档库](saintic/sdp_v1.1.md)
 * [Amp](amp/README.md)
    * What?
    * How?
