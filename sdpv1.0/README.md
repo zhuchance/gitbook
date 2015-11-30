@@ -72,6 +72,7 @@ spmc:Sdp持续集成简易管理控制台，创建更新用户信息。
    >2. svn co https://github.com/staugur/Sdp/tags/stable-0.1 sdp
 
    >3. cd sdp ; ls
+   
   ![](../imgs/sdp1.0.png)
 
    >4. cd components            //运行此下三个脚本或一键脚本安装docker、httpd+svn、vsftpd服务；
