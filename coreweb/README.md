@@ -11,7 +11,7 @@ Of course, we follow the GPL, allow free modification. reprint please indicate t
 CoreWeb遵循GPL(v2)协议，允许自由修改，转载请注明出处！
 
 ****
-### 　　　　　　　　　     Author:saintic.com
+###　　　　　　　　　     Author:saintic.com
 ###　　　　　　　　　 E-mail:staugur@saintic.com
 
 ===========================
@@ -24,5 +24,6 @@ This project is divided into two parts:
 	随着web2.0的快速发展，传统数据库瓶颈显露水面，这时，非关系型数据库应运而生！
 
 Setup Steps:
+
 	sh index.sh
-END
+	
