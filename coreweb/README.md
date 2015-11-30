@@ -15,15 +15,3 @@ CoreWeb遵循GPL(v2)协议，允许自由修改，转载请注明出处！
 ###　　　　　　　　　 E-mail:staugur@saintic.com
 
 ===========================
-
-
-This project is divided into two parts:
-	The first part:LANMP
-	此部分旨在为服务器部署动态网站平台，包括Web服务nginx、Apache，Linux下最常用的数据库MySQL，时下流行的动态网页语言PHP解析环境。
-	The second part:NoSQL
-	随着web2.0的快速发展，传统数据库瓶颈显露水面，这时，非关系型数据库应运而生！
-
-Setup Steps:
-
-	sh index.sh
-	
