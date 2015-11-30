@@ -8,11 +8,11 @@
    * [Sdp,v1.1官方文档库](saintic/sdp_v1.1.md)
 * [Blog](blog/README.md)
 * [CoreWeb](coreweb/README.md)
-* [Sdp v1.1](sdpv1.1/README.md)
-* Sdp1.1.1
 * [Sdp v1.0](sdpv1.0/README.md)
    * [Docker](sdpv1.0/docker.md)
    * [Subversion](sdpv1.0/subversion.md)
    * [Vsftpd](sdpv1.0/vsftpd.md)
    * [一键部署Sdp v1.0](sdpv1.0/autodeploy.md)
+* [Sdp v1.1](sdpv1.1/README.md)
+* Sdp1.1.1
 
