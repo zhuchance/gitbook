@@ -1,7 +1,6 @@
 # Summary
 
 * [SaintIC](README.md)
-   * [我的技术博客](saintic/blog.md)
    * [Amp官方文档库](saintic/amp.md)
    * [CoreWeb官方文档库](saintic/coreweb.md)
    * [Sdp,v1.0官方文档库](saintic/sdp_v1.0.md)
