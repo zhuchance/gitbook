@@ -10,4 +10,3 @@ Of course, we follow the GPL, allow free modification. reprint please indicate t
 
 CoreWeb遵循GPL(v2)协议，允许自由修改，转载请注明出处！
 
-****
