@@ -8,7 +8,7 @@
    * [Sdp,v1.1官方文档库](saintic/sdp_v1.1.md)
 * [Blog](blog/README.md)
    * [1.Squid+Stunnel = 翻墙](blog/1.md)
-* [Amp](.amp/README.md)
+* [Amp](amp/README.md)
    * What?
    * How?
 * [CoreWeb](coreweb/README.md)
