@@ -2,15 +2,14 @@
 
 ## 一：Sdp
 
-即Simple Docker PaaS,文档版本是1.0，版本地址是https://github.com/staugur/Sdp/tags/stable-v1.0。
+**提示：Sdp1.0(shell)将逐渐不再维护，建议使用Sdp1.1(python).**
+
+Sdp即Simple Docker PaaS,文档版本是1.0，版本地址是https://github.com/saintic/Sdp/tags/stable-v1.0。
 
 它目前版本是一个在固定环境的单机上部署的一套小型PaaS平台，支持nginx、httpd、tomcat、mysql、mongodb、redis、memcached服务；遗憾的是无法通过网页申请资源、管理、审计等。
 
-# Sdp,v1.0官方文档库
 
-**提示：Sdp1.0(shell)将逐渐不再维护，建议使用Sdp1.1(python).**
-
-## **stable-v1.0(sdp.sh)原理：**
+**stable-v1.0(sdp.sh)原理：**
 1. 
 泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
   
@@ -32,8 +31,7 @@ spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点�
 ![](../imgs/sdp.sh.png)
 
 
-## **Directory description:**
-**Version1.0, Sdp**
+**stable-v1.0(sdp.sh)目录模块:**
 
 components:PaaS基础服务器，文件服务、容器服务。
 
@@ -44,27 +42,6 @@ builds:创建容器中主要服务，提供PaaS应用；
 tools:其他工具类脚本，如续费功能、服务到期邮件提醒功能等；
 
 spmc:Sdp持续集成简易管理控制台，创建更新用户信息。
-
-
-## **PaaS:**
-*Sdp定位是一个简单PAAS平台，旨在构建简单方便快捷的PAAS云。*
-
-Sdp1.0局限性很大，尚只支持单机环境，自由度低，适用于个人用户；
-Sdp2.0(SPC)完全分布式环境、大规模部署，自由度高，适用于组织及企业级应用。
-
- 
-*以下简单说说PaaS的功能：*
-
-PaaS改变了传统的应用交付模式，促进了分工的进一步专业化，解耦了开发团队和运维团队。
-![](../imgs/PAASchange.jpg)
-
-
-结束语：
-不论是大型企业，中小企业，软件开发商，软件供应商、运营商，还是开发和运维人员，都需充分认识到PaaS的战略核心地位和即将带来的变化，做好充分的准备，迎接PaaS时代的到来。
-
-
-
-
 
 
 ## 二：要求及使用
