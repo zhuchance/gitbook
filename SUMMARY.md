@@ -16,5 +16,5 @@
 * [Blog](blog/README.md)
    * [1.运维自动化](blog/1.md)
    * [2.OpenVPN](blog/2.md)
-   * 3.Nginx日志切割
+   * [3.Nginx日志切割](blog/3.md)
 
