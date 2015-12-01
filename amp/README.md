@@ -3,7 +3,7 @@
 ---
 
 **Ansible Manager Platform==>Ansible自动化运维(通用)管理平台**
-(GitHub:https://github.com/staugur/Amp)
+(GitHub:https://github.com/saintic/Amp)
 
 **[中文版]**
 
