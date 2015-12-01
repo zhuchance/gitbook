@@ -37,7 +37,7 @@ Motto:
 
 ##Scheduler
   ```
-  Resource scheduler```
+  Resource scheduler(for vm, docker)```
   
 ##Router
   ```
