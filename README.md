@@ -56,11 +56,11 @@ Motto:
 
   我的FaceBook社区主页-->> https://www.facebook.com/fifthspace
 
-  我的Twitter主页是-->> https://twitter.com/Staugurtcw
-
   我的微博主页是-->> http://weibo.com/staugur
+  
+  我的淘宝小铺是-->> https://shop126877887.taobao.com/
 
-  如果你有好奇心(不要嫌弃UI)-->> https://saintic.top/
+  如果你有好奇心-->> https://saintic.top/
 
   如果还有问题想联系我？比如协同开发项目、谈谈人生聊聊理想啊，OK，我的邮箱是：staugur@saintic.com```
 
