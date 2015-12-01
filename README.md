@@ -23,7 +23,7 @@ Motto:
 
   Simple Docker PaaS, version:1.1
 
-  Sdp Private Cloud, version:2.0```
+  Simple Private Cloud, version:2.0```
 
 ##CoreWeb
 
