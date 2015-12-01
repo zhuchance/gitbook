@@ -50,13 +50,15 @@ Motto:
 ##Links
 
   ```
-  我的GitHub组织代码仓库是-->> https://github.com/saintic;
+  我的GitHub组织代码仓库是-->> https://github.com/saintic
   
-  我的GitHub私人代码仓库是-->> https://github.com/staugur;
+  我的GitHub私人代码仓库是-->> https://github.com/staugur
 
   我的Docker仓库名是staugur，私有仓是registry.saintic.com(咋用？Google、Baidu~~或者本站serach)
 
-  我的FaceBook社区主页-->> https://www.facebook.com/fifthspace
+  我的FaceBook社区-->> https://www.facebook.com/fifthspace
+  
+  我的开源中国主页-->> http://my.oschina.net/staugur
 
   我的微博主页是-->> http://weibo.com/staugur
   
