@@ -11,7 +11,7 @@ Love:
 Motto:
   原谅我一生放荡不羁爱自由！```
 
-##My Blog
+##Blog
 
   ```
   运维,开发,架构```
@@ -34,6 +34,18 @@ Motto:
 
   ```
   Ansible Manager Platform==>自动化运维(通用)管理平台```
+
+##Scheduler
+  ```
+  Resource scheduler```
+  
+##Router
+  ```
+  Seven layer routing agent```
+  
+##fix_docker_ip
+  ```
+  固定Docker容器内IP(设置静态IP)```
 
 ##Links
 
