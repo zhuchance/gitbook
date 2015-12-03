@@ -18,4 +18,5 @@
    * [2.OpenVPN](blog/2.md)
    * [3.Nginx日志切割](blog/3.md)
    * [4.Python获取系统信息(CPU、Mem、Disk、Network、User等)](blog/4.md)
+   * 5.RHEL6 KVM
 
