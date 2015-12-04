@@ -22,4 +22,5 @@
    * [6.LAMP](blog/6.md)
    * [7.服务检测脚本](blog/7.md)
    * [9.Docker](blog/9.md)
+   * 8.LNMP
 
