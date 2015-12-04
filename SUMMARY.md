@@ -20,7 +20,7 @@
    * [4.Python获取系统信息(CPU、Mem、Disk、Network、User等)](blog/4.md)
    * [5.RHEL6 KVM](blog/5.md)
    * [6.LAMP](blog/6.md)
-   * 8.LNMP
    * [7.服务检测脚本](blog/7.md)
+   * 8.LNMP
    * [9.Docker](blog/9.md)
 
