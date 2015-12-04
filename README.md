@@ -58,8 +58,6 @@ Motto:
   
   另外，欢迎光临我的淘宝铺子-->> https://shop126877887.taobao.com/
 
-  如果你有好奇心-->> https://saintic.top/
-
   如果还有问题想联系我？比如协同开发项目、谈谈人生聊聊理想啊，OK，我的邮箱是：staugur@saintic.com```
 
 ##Small donations
