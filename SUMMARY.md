@@ -34,5 +34,5 @@
    * [18.DDOS](blog/18.md)
    * [19.Python网络编程(持续更新ing)](blog/19.md)
    * [20.Shell操作接口实例(持续更新ing)](blog/20.md)
-   * 21.统计Nginx访问日志中的IP
+   * [21.统计Nginx访问日志中的IP](blog/21.md)
 
