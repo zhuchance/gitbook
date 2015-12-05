@@ -54,7 +54,7 @@ Motto:
   
   我的GitHub私人代码仓库是-->> https://github.com/staugur
 
-  我的Docker仓库名是staugur，私有仓是registry.saintic.com(咋用？Google、Baidu~~或者本站serach)
+  我的Docker仓库名是staugur-->> docker search staugur
   
   另外，欢迎光临我的淘宝铺子-->> https://shop126877887.taobao.com/
 
