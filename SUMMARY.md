@@ -28,4 +28,5 @@
    * [12.MySQL库重命名](blog/12.md)
    * [13.puppet](blog/13.md)
    * [14.固定文件数量](blog/14.md)
+   * 15.切割固定时间内Nginx日志
 
