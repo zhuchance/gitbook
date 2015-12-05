@@ -26,4 +26,5 @@
    * [10.NoSQL](blog/10.md)
    * [11.百度主动推送接口](blog/11.md)
    * [12.MySQL库重命名](blog/12.md)
+   * 13.puppet
 
