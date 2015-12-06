@@ -6,7 +6,7 @@
    * How?
 * [CoreWeb](coreweb/README.md)
    * [v0.1](coreweb/0.1.md)
-   * v0.2
+   * [v0.2](coreweb/v0.2.md)
 * [Sdp v1.0](sdpv1.0/README.md)
    * [Docker](sdpv1.0/docker.md)
    * [Subversion](sdpv1.0/subversion.md)
