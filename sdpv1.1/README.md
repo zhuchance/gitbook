@@ -5,17 +5,16 @@
 
 更多介绍请参见v1.0，http://www.saintic.com/sdpv1.0/index.html
 
-
 **v1.1原理：**
 1. 
 泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
-  
+
 2. 
 WEB型应用会生成一个包含用户名的三级域名，用户自己的域名cname到我们生成的域名上，由nginx反向代理提供一对一http路由映射到真正的docker容器上，提供FTP svn git(暂不支持)任意一种方式文件，代码上传功能，这样一个简单的PaaS。
 
 3. 
 APP型应用提供IP+PORT，并开放iptables，供用户远程应用。
-  
+
 4. 
 所有关键文件均保存为JSON格式文件，由tools目录下的工具读取相应文件进行相应后续更新服务、邮件提醒等操作。
 
@@ -25,7 +24,7 @@ spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点�
 
 6. 
 简单结构图：
-![](../imgs/sdp.sh.png)
+![](../imgs/sdp.py.png)
 
 
 **stable-v1.0(sdp.sh)目录模块:**
