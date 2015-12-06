@@ -8,7 +8,7 @@
 
 svn export https://github.com/staugur/Sdp/branches/autodeploy/install_sdp1.1.sh && sh install_sdp1.1.sh
 
-如果不用一键安装方式，只要环境有docker、nginx、httpd(svn)、redis、vsftpd。
+如果不用一键安装方式，只要环境有docker、nginx、redis、vsftpd。
 
 
 ## 1.docker
