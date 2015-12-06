@@ -21,7 +21,6 @@
 
 以下是version 1.1的文件结构：
 
-![](../imgs/sdptree1.1.png)
 
 **项目源码只有一个包，Core；入口文件是start.py，，配置文件是sdp.cfg。**
 
