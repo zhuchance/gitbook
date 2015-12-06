@@ -10,7 +10,6 @@ svn export https://github.com/staugur/Sdp/branches/autodeploy/install_sdp1.1.sh 
 
 如果不用一键安装方式，只要环境有docker、nginx、redis、vsftpd。
 
-
 ## 1.docker
 
 参考链接：http://www.saintic.com/sdpv1.0/docker.html
@@ -39,6 +38,8 @@ docker pull staugur/image(镜像名)
 
 
 
-配置部分：
+## 3.redis
+
+
 
 
