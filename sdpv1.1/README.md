@@ -3,10 +3,10 @@
 
 当前文档版本是1.0，源码版本地址是https://github.com/saintic/Sdp/tags/v1.1
 
-更多介绍请参见v1.0，https://staugur.gitbooks.io/saintic/content/sdpv1.0/index.html
+更多介绍请参见v1.0，http://www.saintic.com/sdpv1.0/index.html
 
 
-**stable-v1.0(sdp.sh)原理：**
+**v1.1原理：**
 1. 
 泛解析一个域名(eg:*.saintic.com)到PaaS主服务器，容器即服务，所有的docker建立在分布式存储上，建立统一的数据仓库。
   
