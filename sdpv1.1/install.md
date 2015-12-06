@@ -31,4 +31,6 @@ docker pull staugur/image(镜像名)
 
 参考LNMP文档nginx部分：http://www.saintic.com/blog/8.html
 
-也可以采用源码安装方式，
+更多选择请参考另个项目：https://github.com/staugur/CoreWeb
+
+也可以采用rpm包安装方式，
