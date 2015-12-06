@@ -19,92 +19,48 @@
 
 **二、包与模块:**
 
+以下是version 1.1的文件结构：
+
 ![](../imgs/sdptree1.1.png)
 
+**项目源码只有一个包，Core；入口文件是start.py，，配置文件是sdp.cfg。**
 
+```
+├── Core                 封装的模块包
+│   ├── Core.py          核心模块，处理WEB或APP请求
+│   ├── Docker.py        简单封装了docker-py
+│   ├── __init__.py      代表是个包
+│   ├── Mail.py          邮件模块
+│   ├── Nginx.py         WEB请求的反向代理模块
+│   ├── Public.py        公共函数模块
+│   └── Redis.py         简单封装了Redis API
+├── README.md            说明文件
+├── sdp.cfg              配置文件
+└── start.py             入口文件
+```
 
 **三、要求及使用**
 
-
 **1.系统要求**
+  
+  >1.服务器本身有Nginx、redis、docker，可参照https://github.com/staugur/CoreWeb；
+  
+  >2.满足docker最低安装需求；
+  
+  >3.存在各服务的镜像；
 
-  由于是单机部署，并且开发的时候是以个人服务器为环境的，所以切换服务器有如下硬性要求：
+  >4.防火墙开启一个端口列表，从配置文件STARTPORT设置的端口号开始，范围自定义；
   
-  >1.服务器本身有Nginx服务，可参照https://github.com/staugur/CoreWeb；
-  
-  >2.硬件架构是CentOS6.5 x86_64位以上，要求满足docker最低安装需求；
-  
-  >3.存在标签为staugur/centos的容器，build或pull；
-
-  >4.仅支持iptables，如果为firewalld类型，请关闭firewalld并开启iptables；
-  
-  >5.软件包：jq、mailx、subversion、python
+  >5.Python第三方模块，docker-py,redis,configobj
 
 **2.安装文档**
 
-  提示：以下安装是基于拥有一定基础水平Linux(CentOS)人员进行的。
-  
- ** 前提：请先阅读Docker、Subversion、Vsftpd或一键部署文章！！！**
-  
-   >1. yum –y install subversion mailx
-
-   >2. svn co https://github.com/staugur/Sdp/tags/stable-0.1 sdp
-
-   >3. cd sdp ; ls
-   
-  ![](../imgs/sdp1.0.png)
-
-   >4. cd components            //运行此下三个脚本或一键脚本安装docker、httpd+svn、vsftpd服务；
-
-   >5. sh docker.sh ; sh svn.sh ; sh vsftpd.sh sdptest 123456 或者是install_sdp.sh   //确保中间没有报错,启动服务。
-
-   >6. svn co https://github.com/staugur/CoreWeb/tags/v1.0.0 coreweb ; cd coreweb ; sh index.sh     //如下图，根据提示输入，输入数字1安装nginx。
-  ![](../imgs/nginx.png)
-
-   >7. 修改nginx、httpd监听地址或端口，其中需要nginx反向代理httpd+svn接受请求。
-
-
 **3.使用文档**
 
-*3.1 命令行*
 
-  >1. cd sdp;
-  
-  >2. sh start.sh arg1 arg2 arg3 arg4 arg5
-  ![](../imgs/start.png)
- 
-  >3. Sdp以start.sh脚本开始，此脚本需要五个参数，分别是user(用户) use_time(使用时间，单位月) service_type(服务) file_type(文件类型) email(用户邮箱)。
+**四、协议与反馈**
 
-*3.2 参数要求*
+Sdp采用GPL v2协议，开放源代码，允许自由传播和二次开发，但原作者不负责任何法律责任。代码欢迎fork，若用于商业目的，请联系原作者，否则将追究法律责任。
 
-1).用户名不冲突，同个用户需要多个服务当前版本必须多次以不同user执行；
-
-2).使用时间不限，至少1个月(当前版本并不限制此值为0)；
-
-3).服务类型：nginx、httpd、tomcat、mysql、mongodb、redis、memcached;
-
-4).文件类型：若为web类型可支持ftp、svn，若为app类型默认无；
-
-5).邮件提醒：部署成功后会发给用户一封信息邮件(确保不在垃圾邮件中)，大致内容包括用户名、密码、验证邮箱、服务类型，若为web服务类型则包含域名信息，否则为IP+PORT信息，若文件类型是svn则包含用户版本库地址，否则为FTP地址，最后是FAQ链接，此链接详细讲解用户应该如果使用邮件的信息。
- ![](../imgs/email.png)
-
-*3.3 触发控制*
-
-~~3.3.1 SPMC~~
-  
-  可以直接在web端访问触发，代码目录是spmc，将整个spmc目录复制到nginx网站根目录下或者单独建立虚拟主机，并修改exec.php中的密码部分：将password改为你服务器root密码，并将nginx或Apache、php-fpm的用户改为一个单独的用户，比如www，授予www无密码sudo权限。
-  ![](../imgs/sudo.png)
- 
-Spmc界面如下(建议此界面web加密访问)：
-  ![](../imgs/spmc.png)
-  
-~~3.3.2 Jenkins~~
-
-  通过jenkins持续集成，具体方法在后面博客目录中写。
-  
-
-##三：联系我们
-Sdp为开源项目，遵守GPLv3协议，诚请兴趣开发者；若用于商业目的请联系我们，否则将追究法律责任！
-
-E-mail：staugur@saintic.com
-
+编写过程中一个人难免有所纰漏，测试不到的地方，如遇无法解决的问题或出现BUG请及时提问，地址是：
+[https://github.com/SaintIC/Sdp/issues](https://github.com/SaintIC/Sdp/issues)
