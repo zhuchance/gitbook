@@ -4,7 +4,7 @@
 
 **提示：Sdp1.0(shell)将逐渐不再维护，建议使用Sdp1.1(python).**
 
-Sdp即Simple Docker PaaS,文档版本是1.0，版本库址是https://github.com/saintic/Sdp/tags/stable-v1.0
+Sdp即Simple Docker PaaS,文档版本是1.0，版本库址是[https://github.com/saintic/Sdp/tags/stable-v1.0](https://github.com/saintic/Sdp/tags/stable-v1.0)，其网页地址是[https://github.com/SaintIC/Sdp/tree/stable-v1.0](https://github.com/SaintIC/Sdp/tree/stable-v1.0)。
 
 它目前版本是一个在固定环境的单机上部署的一套小型PaaS平台，支持nginx、httpd、tomcat、mysql、mongodb、redis、memcached服务；遗憾的是无法通过网页申请资源、管理、审计等。
 
