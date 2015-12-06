@@ -5,35 +5,22 @@
 
 更多介绍请参见v1.0，http://www.saintic.com/sdpv1.0/index.html
 
-**v1.1原理：**
+**一、原理：**
 
 1.泛解析一个域名(*.saintic.top)到Sdp服务器上；
 
 2.所有服务生成IP:PORT-->Container的映射关系，不考虑容器IP变化，只维护映射列表；
 
-3.
+3.代码由纯python完成，成功返回Successful字样，并写入redis数据库中，错误则抛出具体错误信息。
 
-5. 
-spmc:Sdp PaaS Manager Console,WEB文件，可随意放到支持PHP环境站点下或单独建个站点，以便通过网页形式创建和更新用户，支持PC端和移动端。
-建议用Jenkins持续集成。
-
-6. 
-简单结构图：
+4简单结构图：
 
 ![](../imgs/sdpy.jpg)
 
 
-**stable-v1.0(sdp.sh)目录模块:**
+**二、包与模块:**
 
-components:PaaS基础服务器，文件服务、容器服务。
 
-boot:引导不同类型服务创建，引导用户生成、创建IP:PORT记录，触发文件服务功能，触发容器创建及分配和限制；
-
-builds:创建容器中主要服务，提供PaaS应用；
-
-tools:其他工具类脚本，如续费功能、服务到期邮件提醒功能等；
-
-spmc:Sdp持续集成简易管理控制台，创建更新用户信息。
 
 
 ## 二：要求及使用
