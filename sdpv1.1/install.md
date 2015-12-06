@@ -37,3 +37,36 @@ docker pull staugur/image(镜像名)
 
 这部分要求sdp.cfg配置文件中的NginxProxy目录存在，且nginx.conf主配置文件包含NginxProxy代理目录，以供用户的WEB请求创建的域名访问。
 
+
+## 3.httpd(svn)
+
+由于目前只支持http(s)方式的svn访问，所以subversion+httpd是有必要的。
+
+两者部署都很简单，建议采用rpm包方式，
+
+```yum -y install httpd svn mod_dav_svn```
+
+方法：
+```
+svn export https://github.com/staugur/scripts/trunk/services/httpd+svn_easy.sh
+sh httpd+svn_easy.sh
+```
+
+如果要源码安装，可参考LAMP的apache httpd部分，参考链接：http://www.saintic.com/blog/6.html
+
+注意一定要安装apr apr-util，然后再安装svn。
+```
+#下面这两个包会自动解压成一个包subversion-1.6.6
+tar zxf subversion-1.6.6.tar.gz  
+tar zxf subversion-deps-1.6.6.tar.gz   
+cd subversion-1.6.6
+rm -rf apr  
+rm -rf apr-util
+./configure --prefix=/usr/local/svn --with-apxs=/usr/local/apache/bin/apxs --with-apr=/usr/local/apr/ --with-apr-util=/usr/local/apr/ --with-ssl --with-neon --enable-shared
+make  
+make install  
+```
+
+配置部分：
+
+
