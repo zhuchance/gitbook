@@ -33,4 +33,7 @@ docker pull staugur/image(镜像名)
 
 更多选择请参考另个项目：https://github.com/staugur/CoreWeb
 
-也可以采用rpm包安装方式，
+也可以采用rpm包安装方式，官方包链接：http://nginx.org/en/linux_packages.html#stable
+
+这部分要求sdp.cfg配置文件中的NginxProxy目录存在，且nginx.conf主配置文件包含NginxProxy代理目录，以供用户的WEB请求创建的域名访问。
+
