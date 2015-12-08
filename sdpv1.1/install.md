@@ -40,6 +40,11 @@ docker pull staugur/image(镜像名)
 
 ## 3.redis
 
+rpm包管理器安装
 
+```yum -y install epel-release ; yum makecache ; yum -y install redis```
 
+源码包安装
+
+```请参考https://github.com/staugur/CoreWeb```
 
