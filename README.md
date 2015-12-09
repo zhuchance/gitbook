@@ -19,17 +19,17 @@ Motto:
 ##Sdp
 
   ```
-  Simple Docker PaaS, version:1.0
+  Simple Docker PaaS, version:1.0    PaaS云服务(Shell)
 
-  Simple Docker PaaS, version:1.1
+  Simple Docker PaaS, version:1.1    PaaS云服务(Py重写)
 
-  Simple Private Cloud, version:2.0```
+  Simple Private Cloud, version:2.0  IaaS、PaaS私有云服务```
 
 ##CoreWeb
 
   ```
   An automated web environment deployment system```
-  
+
 ##Amp
 
   ```
