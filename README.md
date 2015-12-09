@@ -43,7 +43,7 @@ Motto:
   ```
   Seven layer routing agent```
   
-##fix_docker_ip
+##fix docker ip
   ```
   固定Docker容器内IP(设置静态IP)```
   
