@@ -42,5 +42,6 @@
    * [24.shell正则预检测邮箱格式、正整数、数组](blog/24.md)
    * [25.Nginx+keepalived(HA)](blog/25.md)
    * [26.LVS/NAT+Nginx+Docker应用实例](blog/26.md)
+   * 27.Python SendEmail
 * [致正在逝去的青春~~~~~~](Youth/README.md)
 
