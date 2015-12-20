@@ -44,7 +44,6 @@
    * [26.LVS/NAT+Nginx+Docker应用实例](blog/26.md)
    * [27.Python SendEmail](blog/27.md)
    * [28.Squid+Stunnel 翻墙看世界](blog/28.md)
-* [致正在逝去的青春~~~~~~](Youth/README.md)
 * SPC
 * SRDM
 * Scheduler
