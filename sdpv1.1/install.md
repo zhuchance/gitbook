@@ -25,7 +25,6 @@ docker pull staugur/image(镜像名)
 如果你想自定义你的镜像，可以下载我的base镜像，centos 190M不到，docker pull staugur/base，然后修改源码中的Core/Docker.py中的volumes对应的容器WEB服务根目录。
 
 
-
 ## 2.nginx
 
 参考LNMP文档nginx部分：http://www.saintic.com/blog/8.html
