@@ -1,7 +1,6 @@
 # Sdp v1.1 使用手册
 
 ```
-.
 ├── Core
 │   ├── Core.py
 │   ├── Docker.py
