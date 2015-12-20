@@ -53,6 +53,7 @@ rpm包管理器安装
 
 ```请参考https://github.com/staugur/CoreWeb```
 
+
 ## 4.vsftpd
 
-
+由于系统用的是vsftpd的虚拟用户类型，建议采用vsftpd的一键部署文档，http://www.saintic.com/blog/16.html
