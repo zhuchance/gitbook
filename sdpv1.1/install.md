@@ -22,6 +22,12 @@ svn export https://github.com/saintic/Sdp/branches/autodeploy/install_sdp1.1.sh 
 
 docker pull staugur/image(镜像名)
 
+另一种方法是build
+
+```svn export https://github.com/staugur/scripts/trunk/Dockerfile```
+
+Dockerfile中有镜像列表的构建文件，可以自行构建。
+
 如果你想自定义你的镜像，可以下载我的base镜像，centos 190M不到，docker pull staugur/base，然后修改源码中的Core/Docker.py中的volumes对应的容器WEB服务根目录。
 
 
