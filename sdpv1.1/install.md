@@ -2,7 +2,7 @@
 
 建议采用我提供的一键部署环境脚本，在分支autodeploy下。
 
-具体的脚本是：https://github.com/staugur/Sdp/branches/autodeploy
+具体的脚本是：https://github.com/saintic/Sdp/branches/autodeploy
 
 使用方法：
 
