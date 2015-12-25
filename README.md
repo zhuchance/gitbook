@@ -73,7 +73,7 @@ Motto:
 
 与本站交换友情链接也可以邮件哦。
 
-本站源码地址[https://github.com/staugur/gitbook](https://github.com/staugur/gitbook)，欢迎fork。```
+本站源码地址(https://github.com/staugur/gitbook)，欢迎fork。```
 
 ##Links
 
