@@ -42,11 +42,7 @@ Motto:
 ##Router
   ```
   Seven layer routing agent```
-  
-##fix docker ip
-  ```
-  固定Docker容器内IP(设置静态IP)```
-  
+
 ##About
 
 > 我是干什么的？
