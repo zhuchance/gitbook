@@ -25,23 +25,25 @@ Motto:
 
   Simple Private Cloud, version:2.0  IaaS、PaaS私有云服务```
 
+##SPC
+  ```Simple Private Cloud(SPC)```
+
 ##CoreWeb
 
-  ```
-  An automated web environment deployment system```
+  ```An automated web environment deployment system(https://github.com/staugur/CoreWeb)```
 
 ##Amp
 
-  ```
-  Ansible Manager Platform==>自动化运维(通用)管理平台```
+  ```Ansible Manager Platform==>自动化运维(通用)管理平台```
 
 ##Scheduler
-  ```
-  Resource scheduler(for vm, docker)```
+  ```Resource scheduler(for vm, docker)```
   
 ##Router
-  ```
-  Seven layer routing agent```
+  ```Seven layer routing agent```
+
+##SRDM
+  ```服务与资源的定义管理系统 => Service and Resource Definition Management```
 
 ##About
 
